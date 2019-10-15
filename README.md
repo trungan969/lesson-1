@@ -1,2 +1,6 @@
 # lesson-1
-My first lesson
+
+Welcome ladies and gentlement!
+
+I like HTML, CSS and Javascript.
+I'm learning it
